@@ -20,7 +20,7 @@ Just type "java img2list path_to_the_image_file_to_process".
 
 # Versions and changelog
 
-1.00 2017-03-06
+1.01 2017-03-06
 
         Initial public release
 
