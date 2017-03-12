@@ -26,7 +26,7 @@ Just type "java img2list path_to_the_image_file_to_process".
 
 # Further development plans
 
-Perhaps provide a sixth column with colour names for known RGV triplets.
+Perhaps provide a sixth column with colour names for known RGB triplets.
 
 # License
 
